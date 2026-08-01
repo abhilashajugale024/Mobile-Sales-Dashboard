@@ -164,31 +164,31 @@ This dashboard enables business users to monitor KPIs, identify sales trends, co
 
 ## Executive Dashboard
 
-![Dashboard](Images/images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
 ## Month-to-Date Report
 
-![MTD](Images/images/mtd-report.png)
+![MTD](Images/mtd-report.png)
 
 ---
 
 ## Same Period Last Year
 
-![SPLY](Images/images/sply-report.png)
+![SPLY](Images/sply-report.png)
 
 ---
 
 ## Customer & Payment Insights
 
-![Customer](Images/images/customer-dashboard.png)
+![Customer](Images/customer-dashboard.png)
 
 ---
 
 ## Product Performance
 
-![Product](Images/images/product-dashboard.png)
+![Product](Images/product-dashboard.png)
 
 ---
 
