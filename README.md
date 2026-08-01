@@ -149,7 +149,7 @@ This dashboard enables business users to monitor KPIs, identify sales trends, co
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -164,31 +164,31 @@ This dashboard enables business users to monitor KPIs, identify sales trends, co
 
 ## Executive Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/images/dashboard.png)
 
 ---
 
 ## Month-to-Date Report
 
-![MTD](Images/mtd-report.png)
+![MTD](Images/images/mtd-report.png)
 
 ---
 
 ## Same Period Last Year
 
-![SPLY](images/sply-report.png)
+![SPLY](Images/images/sply-report.png)
 
 ---
 
 ## Customer & Payment Insights
 
-![Customer](images/customer-dashboard.png)
+![Customer](Images/images/customer-dashboard.png)
 
 ---
 
 ## Product Performance
 
-![Product](images/product-dashboard.png)
+![Product](Images/images/product-dashboard.png)
 
 ---
 
