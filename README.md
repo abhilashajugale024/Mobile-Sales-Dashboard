@@ -170,7 +170,7 @@ This dashboard enables business users to monitor KPIs, identify sales trends, co
 
 ## Month-to-Date Report
 
-![MTD](images/mtd-report.png)
+![MTD](Images/mtd-report.png)
 
 ---
 
