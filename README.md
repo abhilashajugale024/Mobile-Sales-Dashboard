@@ -201,18 +201,18 @@ This dashboard enables business users to monitor KPIs, identify sales trends, co
 #  Project Structure
 
 ```
-Mobile-Sales-Dashboard
+Mobile-Sales-Dashboard/
 │
-├── Mobile Sales Dashboard.pbix
+├── MS_Dashboard.pbix
+├── Mobile Sales Dataset.xlsx
 ├── README.md
-├── Dataset.xlsx
-├── images
-│   ├── dashboard.png
-│   ├── mtd-report.png
-│   ├── sply-report.png
-│   ├── customer-dashboard.png
-│   └── product-dashboard.png
-└── LICENSE
+├── LICENSE
+└── Images/
+    ├── dashboard.png
+    ├── mtd-report.png
+    ├── sply-report.png
+    ├── customer-dashboard.png
+    └── product-dashboard.png
 ```
 
 ---
@@ -249,9 +249,8 @@ Mobile-Sales-Dashboard
 
 #  Author
 
-**Abhilasha Jugale**
-
- Aspiring Data Analyst | Power BI Developer
+Abhilasha Jugale
+Aspiring Data Analyst | Power BI Developer
 
 ---
 
