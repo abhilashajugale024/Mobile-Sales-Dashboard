@@ -162,25 +162,25 @@ This dashboard enables business users to monitor KPIs, identify sales trends, co
 
 #  Business Insights Generated
 
-✔ Overall Sales Performance
+ Overall Sales Performance
 
-✔ Monthly Sales Trends
+ Monthly Sales Trends
 
-✔ Geographic Sales Distribution
+ Geographic Sales Distribution
 
-✔ Brand-wise Performance
+ Brand-wise Performance
 
-✔ Product Ranking
+ Product Ranking
 
-✔ Customer Behavior
+ Customer Behavior
 
-✔ Payment Preferences
+ Payment Preferences
 
-✔ Customer Ratings
+ Customer Ratings
 
-✔ Sales Comparison with Previous Year
+ Sales Comparison with Previous Year
 
-✔ Month-to-Date Performance
+ Month-to-Date Performance
 
 ---
 
@@ -250,6 +250,7 @@ Mobile-Sales-Dashboard/
 #  Author
 
 Abhilasha Jugale
+
 Aspiring Data Analyst | Power BI Developer
 
 ---
